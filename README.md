@@ -1,2 +1,5 @@
-# allen-brain
-allen brain学习
+# allen-brain  
+allen brain学习  
+### 数细胞  
+[allensdk](http://alleninstitute.github.io/AllenSDK/_static/examples/nb/mouse_connectivity.html#Generating-a-Projection-Matrix)  
+ 
